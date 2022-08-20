@@ -1,2 +1,3 @@
 # learner
-I need to learn 
+I need to learn linux
+
